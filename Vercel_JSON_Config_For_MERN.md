@@ -1,4 +1,4 @@
-## Vercel.json
+## vercel.json
 Vercel json config for express backend 
 ```
   {
